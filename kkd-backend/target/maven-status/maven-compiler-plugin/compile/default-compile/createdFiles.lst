@@ -1,0 +1,12 @@
+ru\example\kkd\service\KkdRuleEngine$Goal.class
+ru\example\kkd\service\DeltaCalculator$Counts.class
+ru\example\kkd\api\KkdController.class
+ru\example\kkd\api\NotFoundException.class
+ru\example\kkd\service\KkdMetricsCalculator.class
+ru\example\kkd\service\KkdRuleEngine$KeyResult.class
+ru\example\kkd\service\KkdRuleEngine.class
+ru\example\kkd\api\ApiExceptionHandler.class
+ru\example\kkd\service\KkdRuleEngine$Issue.class
+ru\example\kkd\service\KkdService.class
+ru\example\kkd\KkdApplication.class
+ru\example\kkd\service\DeltaCalculator.class
